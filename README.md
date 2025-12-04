@@ -1,1 +1,1 @@
-["Dodana povezava na zapiske za 5. domačo nalogo](https://github.com/nusaharb/nusaharb-github.io/blob/main/index.html)
+- 5. domača naloga: [Moja spletna stran](https://github.com/nusaharb/nusaharb-github.io/blob/main/index.html)
